@@ -19,3 +19,4 @@ def test_grade_d():
 
 def test_grade_f():
     assert calculate_grade(20) == "F"
+
